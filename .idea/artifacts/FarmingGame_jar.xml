@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FarmingGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FarmingGame_jar</output-path>
+    <root id="archive" name="FarmingGame.jar">
+      <element id="module-output" name="WaveShooter" />
+    </root>
+  </artifact>
+</component>
